@@ -1,0 +1,12 @@
+/* Add application styles & imports to this file! */
+html,
+body {
+  background-color: #212121;
+  font-family: sans-serif, Arial, Helvetica;
+}
+
+.app {
+  display: flex;
+  align-items: center;
+  justify-items: center;
+}
